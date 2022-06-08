@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Moravia.HW", "Moravia.HW.csproj", "{A6703E8F-2EF9-4979-B736-9B04F038E4B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "..\UnitTest\UnitTest.csproj", "{51C7D26B-695C-465D-B6E8-AF8D7C1E88AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6703E8F-2EF9-4979-B736-9B04F038E4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6703E8F-2EF9-4979-B736-9B04F038E4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6703E8F-2EF9-4979-B736-9B04F038E4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6703E8F-2EF9-4979-B736-9B04F038E4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C7D26B-695C-465D-B6E8-AF8D7C1E88AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C7D26B-695C-465D-B6E8-AF8D7C1E88AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C7D26B-695C-465D-B6E8-AF8D7C1E88AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C7D26B-695C-465D-B6E8-AF8D7C1E88AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74182F37-41E9-45B4-B8D0-235F76674265}
+	EndGlobalSection
+EndGlobal
